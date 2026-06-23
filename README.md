@@ -30,7 +30,7 @@ Factura A
 👉 total = importeBase + 21% (IVA)
 Factura B
 👉 total = importeBase + 10.5%
-## 🔥 REQUISITOS (ACÁ ESTÁ LA TRAMPA)
+## 🔥 REQUISITOS
 Leer archivo y cargar en HashMap
 
 Clase abstracta Factura
