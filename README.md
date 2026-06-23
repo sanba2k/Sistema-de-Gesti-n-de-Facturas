@@ -1,4 +1,4 @@
-# 🧠 ENUNCIADO 1 — Sistema de Gestión de Facturas
+# 🧠 Sistema de Gestión de Facturas
 
 Una empresa necesita desarrollar una aplicación para administrar las facturas emitidas durante el mes.
 
