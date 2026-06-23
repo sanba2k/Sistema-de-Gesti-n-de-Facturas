@@ -31,23 +31,41 @@ Factura B
 👉 total = importeBase + 10.5%
 ## 🔥 REQUISITOS (ACÁ ESTÁ LA TRAMPA)
 Leer archivo y cargar en HashMap
+
 Clase abstracta Factura
+
 Polimorfismo para calcular total
+
 Mostrar todas las facturas con total
+
 Buscar factura por número
+
 Eliminar factura por número
+
 Calcular recaudación total (Streams)
+
 Mostrar factura con mayor total (Streams)
+
 Mostrar factura con menor total (Streams)
+
 Cantidad de Facturas A (Streams)
+
 Cantidad de Facturas B (Streams)
+
 Mostrar facturas con total > 20000 (Streams)
+
 Promedio de Facturas A (Streams)
+
 Promedio general (Streams)
+
 Obtener lista de clientes sin repetir (Streams)
+
 Ordenar facturas por total DESC (Streams)
+
 Agrupar facturas por tipo (Collectors.groupingBy) ⚠️
+
 Obtener mapa con cantidad por tipo ⚠️
+
 Mostrar los 3 clientes con mayor facturación ⚠️
 
 ## 📂 ARCHIVO COMPLETO (para que practiques en serio)
