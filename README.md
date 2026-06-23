@@ -23,6 +23,7 @@ importeBase
 dni
 ## 🔹 Formato del archivo
 A;1001;Juan Perez;15000;20333444556
+
 B;1002;Ana Gomez;8000;33444555
 ## 🔹 Reglas de cálculo
 Factura A
